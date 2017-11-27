@@ -1,0 +1,1 @@
+npx babel chess.js -w --out-file compiled.js
